@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="subproject2 [file:/Users/manushvisingh/Desktop/my-project/]" external.linked.project.path="$MODULE_DIR$/../../sub-project-2" external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output url="file://$MODULE_DIR$/../../sub-project-2/target/scala-2.12/classes" />
+    <output-test url="file://$MODULE_DIR$/../../sub-project-2/target/scala-2.12/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../sub-project-2">
+      <sourceFolder url="file://$MODULE_DIR$/../../sub-project-2/src/main/scala" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../sub-project-2/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: com.typesafe.akka:akka-actor_2.12:2.6.16:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe:config:1.4.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-java8-compat_2.12:0.8.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.12.11:jar" level="project" />
+    <orderEntry type="module" module-name="sub-project-1" exported="" />
+  </component>
+</module>
